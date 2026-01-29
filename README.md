@@ -4,8 +4,8 @@ This directory contains the execution traces and analysis scripts for the experi
 
 ## Traces
 
-- `trace-moe-mixtral.torch` - Mixtral 8x7B execution traces (1000 prompts, 154MB)
-- `trace-moe-llama-helpful_2.torch` - Llama-MoE execution traces (10 prompts, 21MB)
+- `trace-moe-mixtral.torch` - Mixtral 8x7B execution traces 
+- `trace-moe-llama-helpful_2.torch` - Llama-MoE execution traces 
 
 ## Analysis Scripts
 
