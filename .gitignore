@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Trace files (too large for git)
+*.torch
+*.pt
+
+# LaTeX auxiliary files
+*.aux
+*.log
+*.synctex.gz
+
+# OS
+.DS_Store
+*.Zone.Identifier
